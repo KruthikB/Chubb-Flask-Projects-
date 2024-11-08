@@ -1,0 +1,26 @@
+Date	Source	Feedback Text	Sentiment Score	Product/Service Category	Rating
+12/7/2023	Social Media	Product quality could be improved.	Neutral	Website Experience	3
+6/26/2024	Social Media	Fast delivery and great service!	Negative	Website Experience	3
+10/30/2024	Social Media	Support team was very responsive.	Positive	Delivery Service	5
+7/18/2024	Review Site	Support team was very responsive.	Positive	Customer Support	2
+5/23/2024	Survey	Shipping took too long.	Positive	Delivery Service	2
+8/17/2024	Review Site	Poor customer service.	Negative	Customer Support	1
+4/9/2024	Review Site	Product quality could be improved.	Positive	Customer Support	5
+1/5/2024	Review Site	Very happy with the service.	Neutral	Delivery Service	2
+7/4/2024	Survey	Excellent customer support!	Neutral	Delivery Service	5
+2/1/2024	Review Site	Love the product quality!	Neutral	Product Quality	5
+3/14/2024	Social Media	Fast delivery and great service!	Neutral	Product Quality	5
+9/26/2024	Social Media	Fast delivery and great service!	Negative	Product Quality	4
+12/24/2023	Social Media	Website is easy to navigate.	Neutral	Delivery Service	4
+6/5/2024	Social Media	Love the product quality!	Positive	Customer Support	1
+7/29/2024	Social Media	Love the product quality!	Neutral	Product Quality	2
+4/26/2024	Social Media	Would not recommend.	Neutral	Customer Support	4
+8/4/2024	Social Media	Love the product quality!	Negative	Delivery Service	5
+12/25/2023	Social Media	Very happy with the service.	Negative	Product Quality	4
+11/20/2023	Review Site	Excellent customer support!	Negative	Customer Support	4
+1/17/2024	Social Media	Very happy with the service.	Neutral	Customer Support	1
+12/21/2023	Review Site	Delivery was delayed.	Negative	Website Experience	5
+4/25/2024	Social Media	Delivery was faster than expected.	Positive	Customer Support	1
+12/12/2023	Survey	Not happy with the product quality.	Neutral	Website Experience	2
+10/5/2024	Social Media	Fast delivery and great service!	Positive	Website Experience	2
+3/10/2024	Review Site	Website experience was smooth.	Negative	Product Quality	3
